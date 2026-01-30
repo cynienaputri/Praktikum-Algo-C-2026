@@ -9,3 +9,4 @@ print ('dengan NIM ', str(NIM))
 print ('Saya kuliah di ' + Universitas)
 print ('Fakultas ' + Fakultas)
 print ('Senang berkenalan dengan kalian semua!')
+
