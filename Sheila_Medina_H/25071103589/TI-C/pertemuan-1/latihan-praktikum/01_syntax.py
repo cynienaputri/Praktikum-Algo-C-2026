@@ -3,4 +3,9 @@
 
 #indetasi hanya untuk blok kode seperti if, for, function, class, dll.
 
+if True :
+    print("Hello, World!") #blok kode di dalam if diindentasikan
+
+print("Selamat datang di Python") #blok kode di luar if tidak diindentasikan
+
 

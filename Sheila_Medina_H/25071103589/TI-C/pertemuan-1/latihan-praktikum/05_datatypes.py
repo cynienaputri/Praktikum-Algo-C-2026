@@ -3,10 +3,10 @@
 # 1. Integer (int)
 angka = 10
 print(angka)
-print(type(angka))
+print(type(angka)) #menampilkan tipe data variabel
 
-# 2. Float (float)
-desimal = 3.5
+# 2. Float (float) 
+desimal = 3.5   
 print(desimal)
 print(type(desimal))
 
